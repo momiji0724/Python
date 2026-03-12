@@ -1,0 +1,5 @@
+# -*- coding: shift_jis -*-
+print("‚¨‚Í‚æ‚¤")
+print("""‚±‚ñ‚É‚¿‚Í""")
+print("‚±‚ñ‚Î‚ñ‚Í")
+

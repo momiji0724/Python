@@ -1,0 +1,2 @@
+# -*- coding: shift_jis -*-
+print('‚±‚ñ‚É‚¿‚Í', '¢ŠE',sep = ' ')
