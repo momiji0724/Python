@@ -1,0 +1,3 @@
+# -*- coding: shift_jis -*-
+txt = '‚Ý‚©‚ñ\t‚©‚«\t‚è‚ñ‚²'
+print(txt)

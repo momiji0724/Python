@@ -1,0 +1,3 @@
+# -*- coding: shift_jis -*-
+name = 'ВёВ¬ВЁ'
+print(f'В±ВсВ…ВњВЌБA{name}В≥Вс')

@@ -1,0 +1,3 @@
+# -*- coding: shift_jis -*-
+name = '‚è‚ñ‚²'
+del name
